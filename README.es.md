@@ -12,7 +12,7 @@ Una aplicación de Windows Forms-VB.Net que permite crear, leer, modificar y eli
 
 Características
 -------------------
-* El formulario de registro permite recolectar información personal del paciente, el nombre y especialidad del médico y la fecha y hora de la cita.
+* El formulario de registro permite recolectar información personal del paciente, el nombre y especialidad del médico y fecha y hora de la cita.
 * Dos controles DateTimePicker permiten al usuario seleccionar la fecha y hora en el formato apropiado.
 * Una base de datos local SQLite compuesta de una tabla única almacena los registros de citas médicas.
 * La aplicación permite realizar las operaciones básicas de tipo CRUD sobre los registros de la base de datos.
