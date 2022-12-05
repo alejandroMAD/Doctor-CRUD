@@ -8,7 +8,7 @@ Demo
 ----------
 ![Demo screenshot](/screenshot.png)
 
-A VB.Net Windows Forms application to create-read-delete-update and search doctor appointments keeping the records in a SQLite database and displaying them on a ListView control.
+A VB.Net Windows Forms application to create-read-delete-update + search doctor appointments, keeping the records in a SQLite database and displaying them on a ListView control.
 
 Features
 -------------------
@@ -17,7 +17,7 @@ Features
 * A local single-table SQLite database keeps the records of the medical appointments.
 * The application allows for the basic CRUD operations on the database records.
 * The form allows to search the database by ID/patient's last name/doctor's name/appointment date criteria.
-* Pattern searching is enabled by means of the SQLite LIKE operator and '%' wildcard, e.g., finding patients and doctors names ending including "mac" or "man".
+* Pattern searching is enabled by means of the SQLite LIKE operator and '%' wildcard, e.g., finding patients and doctors names including "mac" or "man".
 * The index of existing records and the index of the next record to be added is shown in the form, but the user isn't able to edit the value to conform to the implicit autoincrement of the SQLite ROWID column. 
 * A ListView control is dinamically updated on the user interface to show the records of the medical appointments.
 
