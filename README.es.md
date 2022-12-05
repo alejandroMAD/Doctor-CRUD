@@ -8,7 +8,7 @@ Interfaz de usuario
 ----------
 ![Demo screenshot](/screenshot.png)
 
-Una aplicación de Windows Forms-VB.Net que permite crear, leer, modificar y eliminar además de realizar búsquedas de citas médicas, guardando los registros en una base de datos SQLite y mostrándolos en un control SQLite.
+Una aplicación de Windows Forms-VB.Net que permite crear, leer, modificar y eliminar además de realizar búsquedas de citas médicas, guardando los registros en una base de datos SQLite y mostrándolos en un control ListView.
 
 Características
 -------------------
