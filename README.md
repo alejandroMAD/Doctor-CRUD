@@ -4,7 +4,7 @@ Doctor CRUD
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/alejandroMAD/doctor-CRUD/blob/master/README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/alejandroMAD/doctor-CRUD/blob/master/README.es.md)
 
-Demo
+User interface
 ----------
 ![Demo screenshot](/screenshot.png)
 
