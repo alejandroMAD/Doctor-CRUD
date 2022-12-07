@@ -114,6 +114,8 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Database\doctorCRUD.db3" />
+    <EmbeddedResource Include="Database\doctorCRUD_new.db3" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
